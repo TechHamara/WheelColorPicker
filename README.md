@@ -6,11 +6,11 @@ A color picker component developed by TechHamara using Fast CLI, offering a user
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.wheelcolorpicker
-💾 **Size:** 43.64 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 21
-📅 **Updated On:** [date=2025-07-11 timezone="Asia/Calcutta"]
+📦 **Package:** io.th.wheelcolorpicker<br>
+💾 **Size:** 43.64 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 21<br>
+📅 **Updated On:** [date=2025-07-11 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
 ⬇️ Download aix [here](https://buymeacoffee.com/techhamara/e/431601)
 <br>
