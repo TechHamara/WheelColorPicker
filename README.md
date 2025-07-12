@@ -16,6 +16,22 @@ A color picker component developed by TechHamara using Fast CLI, offering a user
 <br>
 🪧 Library Used : Thank you QuadFlask for your [colorpicker](https://github.com/QuadFlask/colorpicker.git) library 
 
+## Demo 
+
+![Color2.gif](https://github.com/user-attachments/assets/b493586f-2965-422e-9cac-aa913d9b06d5)
+
+![Color3.gif](https://github.com/user-attachments/assets/c6a19e32-5583-4f8d-92cb-e622be401993)
+
+![Color 1.gif](https://github.com/user-attachments/assets/05f61e2b-5b99-4e90-b562-14baecd8b328)
+
+![wheel_picker1.jpg](https://github.com/user-attachments/assets/7da4d3a0-d952-49e6-96cc-72b3ac48cbd7)
+
+![wheel_picker3.jpg](https://github.com/user-attachments/assets/dc5636b5-b613-482e-808f-86200eed5928)
+
+![wheel_picker2.jpg](https://github.com/user-attachments/assets/611fd496-6d59-48c5-a5d5-65ace3e2fe01)
+
+
+
 ## Blocks
 
 <img width="318" height="85" alt="ColorSelected_Event" src="https://github.com/user-attachments/assets/1a15e998-224b-4cb7-bf61-c4f2d3778bc5" />
