@@ -18,6 +18,9 @@ A color picker component developed by TechHamara using Fast CLI, offering a user
 
 ## Demo 
 
+![Wheel picker blocks.png](https://github.com/user-attachments/assets/322241b5-c704-48d0-a3e3-931560783edf)
+
+
 ![Color2.gif](https://github.com/user-attachments/assets/b493586f-2965-422e-9cac-aa913d9b06d5)
 
 ![Color3.gif](https://github.com/user-attachments/assets/c6a19e32-5583-4f8d-92cb-e622be401993)
