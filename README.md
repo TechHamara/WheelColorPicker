@@ -1,7 +1,7 @@
 <div align="center">
 <h1><kbd>🧩 WheelColorPicker</kbd></h1>
 An extension for MIT App Inventor 2.<br>
-A color picker component developed by TechHamara using Fast technology, offering a user-friendly interface for selecting colors with various options such as wheel type, density, and sliders for lightness and alpha.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
+A color picker component developed by TechHamara using Fast CLI, offering a user-friendly interface for selecting colors with various options such as wheel type, density, and sliders for lightness and alpha.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 </div>
 
 ## 📝 Specifications
@@ -11,7 +11,10 @@ A color picker component developed by TechHamara using Fast technology, offering
 ⚙️ **Version:** 1.0
 📱 **Minimum API Level:** 21
 📅 **Updated On:** [date=2025-07-11 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+⬇️ Download aix [here](https://buymeacoffee.com/techhamara/e/431601)
+<br>
+🪧 Library Used : Thank you QuadFlask for your [colorpicker](https://github.com/QuadFlask/colorpicker.git) library 
 
 ## Blocks
 
